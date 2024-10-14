@@ -1,9 +1,14 @@
  <h1 align="center">Hi 👋, I'm Shiji AA </h1>
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F73014&background=FFE0AD1A&random=false&width=435&lines=Full+Stack+Developer;MERN+Stack+Developer;Software+Developer)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on Mern Stack
-- 🌱 I’m currently learning NextJs
-- 💬 Ask me anything about Mern Stack
-- 📫 How to reach me: shijiaa.04@gmail.com
+[![](https://visitcount.itsvg.in/api?id=Shiji-AA &label=Profile%20Views&color=12&icon=6&pretty=false)](https://visitcount.itsvg.in)
+
+📫 How to reach me:
+- email: shijiaa.04@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shijiaa/)
+
+
 - 😄 My website: https://my-portfolio-nine-rust-19.vercel.app/
   
   
