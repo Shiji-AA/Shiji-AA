@@ -24,4 +24,4 @@
 
 
 <br>
-⭐️ From [axiftaj](https://github.com/Shiji-AA)
+⭐️ From [Shiji-AA](https://github.com/Shiji-AA)
