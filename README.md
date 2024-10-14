@@ -47,6 +47,10 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 
+![Shiji AA's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shiji-AA &show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiji-AA &theme=dark)
 
 <br>
+
 ⭐️ From [Shiji-AA](https://github.com/Shiji-AA)
