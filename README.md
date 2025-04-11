@@ -52,8 +52,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiji-AA&theme=dark)
 
 
-# My leetcode statistics: 
-![LeetCode Stats](https://leetcard.jacoblin.cool/SHIJIAA?theme=wtf&font=Tajawal&ext=heatmap)
+<!-- # My leetcode statistics: -->
+<!--![LeetCode Stats](https://leetcard.jacoblin.cool/SHIJIAA?theme=wtf&font=Tajawal&ext=heatmap) -->
 <br>
 
 ⭐️ From [Shiji-AA](https://github.com/Shiji-AA)
